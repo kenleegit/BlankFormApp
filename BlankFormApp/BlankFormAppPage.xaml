@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:BlankFormApp" x:Class="BlankFormApp.BlankFormAppPage">
+<StackLayout>
+    <Label Text="I can play mp3 file by SimpleAudioPlayer!" />
+    <Label x:Name="label1"/>
+    <Label x:Name="label2"/>
+    <Label x:Name="label3"/>
+    <Label x:Name="label4"/>
+</StackLayout>
+</ContentPage>
